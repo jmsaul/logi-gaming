@@ -46,9 +46,10 @@
 						<span class="sr-only">main menu</span>
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
-					<a class="navbar-brand center-text" href="#">Logi-Gaming</a>
+					<img src="img/75345_logigaming_Logo_SC2.jpg" alt="Trail Quail Project" class="image-saul img-circle">
+					<a class="navbar-brand center-text" href="#">LogiGaming</a>
 					<div class="clearfix"></div>
-					<div class="white-text1">Community Solutions</div>
+					<div class="white-text1">Predictive analytics done differently</div>
 				</div>
 
 
@@ -57,7 +58,7 @@
 					<u1 class="nav navbar-nav navbar-right"
 					</u1>
 					<li><a href="index.php">Home</a></li>
-					<li><a href="/pages/logi-gaming.php">About Logi-Gamingme</a></li>
+					<li><a href="/pages/logi-gaming.php">About LogiGaming</a></li>
 					<li><a href="/pages/community-debate.php">Community Debate</a></li>
 					<li><a href="/pages/services.php">Logi-Gaming Services</a></li>
 					<li><a href="/pages/contact,php">Contact Us</a></li>
