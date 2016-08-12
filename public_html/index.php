@@ -135,7 +135,7 @@
 			<span class="pull-right">
 				<!--	This will send an email to trailquailabq@gmail.com		-->
 				<a class="btn btn-primary" href="mailto:C.Jaramillo@live.com"
-					role="button">Email me</a>
+					role="button">Email LogiGaming</a>
 			</span>
 				</p>
 			</div>
