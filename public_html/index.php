@@ -46,8 +46,10 @@
 						<span class="sr-only">main menu</span>
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
-					<img src="img/75345_logigaming_Logo_SC2.jpg" alt="LogiGaming Logo" class="small-logo">
-					<a class="navbar-brand center-text" href="#">LogiGaming</a>
+					<span>
+						<img src="img/75345_logigaming_Logo_SC2.jpg" alt="LogiGaming Logo" class="small-logo">
+						<a class="navbar-brand center-text" href="#">LogiGaming</a>
+					</span>
 					<div class="clearfix"></div>
 					<div class="white-text1">Predictive analytics done differently</div>
 				</div>
