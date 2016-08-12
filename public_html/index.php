@@ -146,10 +146,10 @@
 
 		<footer class="footer">
 			<div class="container">
-				<p class="text-muted">Copyright 2015 Jeff Saul
+				<p class="text-muted">Copyright 2016 Chris Jaramillo
 			<span class="pull-right">
 				<!--	This will send an email to trailquailabq@gmail.com		-->
-				<a class="btn btn-primary" href="mailto:saulj@me.com"
+				<a class="btn btn-primary" href="mailto:C.Jaramillo@live.com"
 					role="button">Email me</a>
 			</span>
 				</p>
