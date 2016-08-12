@@ -77,40 +77,25 @@
 
 				<div class="container">
 					<div class="text-center">
-						<h3>My Portfolio</h3>
+
 						<div class="row">
-							<div class="col-md-4">
+							<div class="col-md-6">
 								<div>
-									<a href="//bootcamp-coders.cnm.edu/~jsaul4/open-trails/public_html/">
-										Trail-Quail Website
-									</a>
+									<h3>LogiGaming</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
 								</div>
-								<a href="//bootcamp-coders.cnm.edu/~jsaul4/open-trails/public_html/">
-									<img src="img/sandiaMtnNM.jpg" alt="Trail Quail Project" class="image-saul img-circle">
-								</a>
+
 							</div>
 
-							<div class="col-md-4">
+							<div class="col-md-6">
 								<div>
-									<a href="//physics.unm.edu/Courses/Saul/00_Classes/FL2014_Saul_PHYC110home.html">
-										Physics 110 Website
-									</a>
+									<h3>Community Debate</h3>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 								</div>
-								<a href="//physics.unm.edu/Courses/Saul/00_Classes/FL2014_Saul_PHYC110home.html">
-									<img src="img/shuttle.jpeg" alt="Physics 110 Website" class="image-saul img-circle">
-								</a>
+
 							</div>
 
-							<div class="col-md-4">
-								<div>
-									<a href="//physics.unm.edu/Courses/Saul/00_Classes/FL2014_A101lab.html">
-										Astro 101lab Website
-									</a>
-								</div>
-								<a href="http://physics.unm.edu/Courses/Saul/00_Classes/FL2014_Saul_PHYC110home.html">
-									<img src="img/crab-nebula.jpeg" alt="Astro 101lab Website" class="image-saul img-circle">
-								</a>
-							</div>
 
 
 						</div>
@@ -120,7 +105,7 @@
 				<br>
 				<hr>
 				<div class="container">
-					<div class="col-md-4">
+					<div class="col-md-6">
 					<h4>Contact Information:</h4>
 					<ul class="contact-info">
 						<li><a href="//bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite">Personal Website</a></li>
@@ -134,10 +119,10 @@
 					</ul>
 				</div>
 
-			<div class="col-md-4">
-				<div>Two of my favorite things:</div>
-				<div>Balloon Fiesta and Bicycling</div>
-				<img src="img/balloon-saul.jpg" alt="Astro 101lab Website" class="image-saul">
+			<div class="col-md-6">
+				<div>LogiGaming</div>
+				<div>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
+
 			</div>
 
 			</main>
