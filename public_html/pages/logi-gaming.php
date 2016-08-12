@@ -33,7 +33,7 @@
 				  integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
 				  crossorigin="anonymous"></script>
 
-		<title>Logi-gaming home</title>
+		<title>About Logi-gaming</title>
 	</head>
 
 	<body class="sfooter">
