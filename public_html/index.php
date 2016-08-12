@@ -47,7 +47,6 @@
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
 					<span>
-						<img src="/img/logiGaming_Logo_SC2.jpg" alt="LogiGaming Logo" class="small-logo">
 						<a class="navbar-brand center-text" href="#">LogiGaming</a>
 					</span>
 					<div class="clearfix"></div>
