@@ -77,8 +77,13 @@
 				</div>
 				<hr>
 
-				<div>
-					<p>banner picture here - jumbotron</p>
+				<div class="row">
+					<div class="col-md-12">
+						<div>
+							<img class="img-main" src="/img/city-data.jpeg" alt="LogiGaming Main City Imagee"/>
+						</div>
+					</div>
+						<p>banner picture here - jumbotron</p>
 				</div>
 				<div class="container">
 					<div class="text-center">
