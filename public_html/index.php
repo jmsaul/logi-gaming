@@ -47,7 +47,7 @@
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
 					<span>
-						<a class="navbar-brand center-text" href="#">LogiGaming</a><p>  Website under construction</p>
+						<a class="navbar-brand center-text" href="#">LogiGaming</a>
 					</span>
 					<div class="clearfix"></div>
 					<div class="white-text1">Predictive analytics done differently</div>
@@ -58,6 +58,7 @@
 				<div class="collapse navbar-collapse" id="main-menu">
 					<u1 class="nav navbar-nav navbar-right"
 					</u1>
+					<li>Website under construction</li>
 					<li><a href="index.php">Home</a></li>
 					<li><a href="/pages/logi-gaming.php">About LogiGaming</a></li>
 					<li><a href="/pages/community-debate.php">Community Debate</a></li>
@@ -68,6 +69,7 @@
 
 			<main class="main-fomrat">
 				<div class="container">
+					<!--  Company Logo goes here  -->
 					<p>
 						<img class="logo" src="/img/logiGaming_Logo_SG1.jpg" alt="LogiGaming Logo"/>
 					</p>
