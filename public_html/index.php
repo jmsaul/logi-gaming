@@ -87,7 +87,7 @@
 							<div class="col-md-6">
 								<div>
 									<h3>LogiGaming</h3>
-									<img class="img-one" src="/img/boardroom.jpg" alt="Consulting Imagee"/>
+									<img class="img-one" src="/img/boardroom.jpeg" alt="Consulting Imagee"/>
 								</div>
 
 							</div>
@@ -95,7 +95,7 @@
 							<div class="col-md-6">
 								<div>
 									<h3>Community Debate</h3>
-									<img class="img-one" src="/img/randomcity.jpg" alt="Public Debate Image"/>
+									<img class="img-one" src="/img/randomcity.jpeg" alt="Public Debate Image"/>
 								</div>
 
 							</div>
