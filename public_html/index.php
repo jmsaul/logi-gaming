@@ -58,7 +58,7 @@
 				<div class="collapse navbar-collapse" id="main-menu">
 					<u1 class="nav navbar-nav navbar-right"
 					</u1>
-					<li>Website under construction</li>
+					<li><a>Website under construction</a></li>
 					<li><a href="index.php">Home</a></li>
 					<li><a href="/pages/logi-gaming.php">About LogiGaming</a></li>
 					<li><a href="/pages/community-debate.php">Community Debate</a></li>
