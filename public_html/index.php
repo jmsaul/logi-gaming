@@ -69,7 +69,7 @@
 			<main class="main-fomrat">
 				<div class="container">
 					<p>
-						<img class="logo" src="/img/logiGaming_Logo_SG1.jpeg" alt="LogiGaming Logo"/>
+						<img class="logo" src="/img/logiGaming_Logo_SG1.jpg" alt="LogiGaming Logo"/>
 					</p>
 					<a href="logi-gaming.php"><h4>To learn more about LogiGaming</h4></a>
 				</div>
