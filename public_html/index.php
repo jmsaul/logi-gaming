@@ -119,8 +119,8 @@
 						<li>Chris Jaramillo, CEO / Founder</li>
 						<li>Phone: (253) 370-2175</li>
 						<li><img src="/img/facebook.png"/></li>
-						<li><img src="/img/twitter.png"/></li>
-						<li><img src="/img/linkedin.phg"/></li>
+						<li><img src="/img/twitter.jpeg"/></li>
+						<li><img src="/img/linkedin.png"/></li>
 					</ul>
 				</div>
 
