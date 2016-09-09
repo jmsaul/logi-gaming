@@ -47,7 +47,7 @@
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
 					<span>
-						<a class="navbar-brand center-text" href="#">LogiGaming</a>
+						<a class="navbar-brand center-text" href="#">LogiGaming</a><p>  Website under construction</p>
 					</span>
 					<div class="clearfix"></div>
 					<div class="white-text1">Predictive analytics done differently</div>
@@ -68,10 +68,10 @@
 
 			<main class="main-fomrat">
 				<div class="container">
-					<h4>Professional Statement</h4>
-					<p>In my previous career, I focused on the teaching and learning of physics, astronomy, and mathematics at an introductory undergraduate level, most recently at the University of New Mexico.  I earned a Ph.D. in Physics in Physics Education Research.  I am now looking for a new career that lets me apply my knowledge and technical skills.  I enjoy coding and had coded applications both as an undergraduate and graduate student.  I am currently updating my skills to pursue a career in web application design and development.  I like the challenge of interesting problems and finding practical solutions.
+					<p>
+						<img class="logo" src="/img/logiGaming_Logo_SG1.jpeg" alt="LogiGaming Logo"/>
 					</p>
-					<a href="about-me.php"><h4>To learn more about me</h4></a>
+					<a href="logi-gaming.php"><h4>To learn more about LogiGaming</h4></a>
 				</div>
 				<hr>
 
