@@ -33,6 +33,7 @@
 *  Logo class rules for sizing and aligning the logo image
 */
 .logo {
+	display: block;
 	margin: auto;
 	border: 2px solid black;
 	background-color: chartreuse;
