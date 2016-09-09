@@ -21,13 +21,20 @@
 /*
 *  Saul circle class rules for images on homepage
 */
-.image-saul {
+/*  .image-saul {
 	-webkit-clip-path: circle(50% at 50% 50%);
 	clip-path: circle(50% at 50% 50%);
 	width: 150px;
 	height: 150px;
-}
+}8
+*/
 
+/*
+*  Logo class rules for sizing and aligning the logo image
+*/
+.logo {
+	border-color: black;
+}
 
 /*
 * Footer format
