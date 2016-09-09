@@ -116,14 +116,9 @@
 					<div class="col-md-6">
 					<h4>Contact Information:</h4>
 					<ul class="contact-info">
-						<li><a href="//bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite">Personal Website</a></li>
-						<li><a href="//github.com/jmsaul">Github Repository</a></li>
-						<li><a href="mailto:webmansaul@gmail.com">webmansaul@gmail.com</a></li>
-						<li>Phone: 954-665-5373</li>
-						<li><a
-								href="//www.linkedin.com/profile/view?id=AAMAAAZJ_f0BjhDGc9euxLgYOwz_kfWCqZ2XDlU&trk=hp-identity-name">Linked
-								in</a></li>
-						<li><a href="https://twitter.com/NMmodeling">Twitter</a></li>
+						<li>Chris Jaramillo, CEO / Founder</li>
+						<li>Phone: (253) 370-2175</li>
+						<li><img src="/img/facebook.png"/><img src="twitter.png"/><img src="linkedin.phg"/></li>
 					</ul>
 				</div>
 
