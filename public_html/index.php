@@ -78,9 +78,7 @@
 				<hr>
 
 				<div>
-					<p>
-						banner picture here
-					</p>
+					<p>banner picture here - jumbotron</p>
 				</div>
 				<div class="container">
 					<div class="text-center">
