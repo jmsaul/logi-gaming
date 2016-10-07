@@ -38,7 +38,7 @@
 
 	<body class="sfooter">
 		<div class="sfooter-content">
-			<nav class="navbar navbar-inverse">
+			<nav class="navbar navbar-inverse navbar-fixed-top">
 				<!-- logo and mobile toggle button get grouped together for better mobile display -->
 				<div class="navbar-header white-text0">
 					<!-- this is the mobile menu button -->
@@ -71,7 +71,7 @@
 				<div class="container">
 					<!--  Company Logo goes here  -->
 
-						<img class="logo" src="/img/logiGaming_Logo_SG1.jpg" alt="LogiGaming Logo"/>
+						<img class="logo" src="/img/logiGaming_Logo_SG2.jpg" alt="LogiGaming Logo"/>
 
 					<a href="logi-gaming.php"><h4>To learn more about LogiGaming</h4></a>
 				</div>
