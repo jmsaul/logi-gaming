@@ -1,9 +1,11 @@
-
+/*   CSS style sheet for Logi-gaming website		*/
+/*   written by J. Saul  October 2016		  		*/
 
 .content-wrap {
 
 }
 
+/* font colors */
 .white-text1 {
 	color:lightgray;
 	padding: 0px 0px 5px 16px;
@@ -71,6 +73,7 @@ footer {
 }
 
 main {
+	padding-top: 50px;
 	padding-bottom: 20px;
 }
 /***
